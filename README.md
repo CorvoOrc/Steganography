@@ -1,4 +1,5 @@
 Steganography
 =============
 
-My semester work
+My semester work. 
+Code is very old :]
